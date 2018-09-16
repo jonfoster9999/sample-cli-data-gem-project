@@ -1,5 +1,6 @@
 class Person
   def my_method
+    puts "this is also part of my feature branch"
     puts "hello!"
   end
 
